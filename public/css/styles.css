@@ -1,0 +1,45 @@
+#title{
+    background-color:#FFF;
+} 
+
+.padding_main{
+    padding: 2% 10%;
+}
+
+.logo_image{
+    width: 20%;
+}
+
+.title_words{
+    padding: 15%;
+}
+/* navbar */
+.navbar{
+    padding:1% 10%;
+    background-color:#fdc501;
+}
+
+.navbar-toggler:visible{
+    display: inline-flex;
+}
+
+
+/* button */
+.start-button{
+    margin:5% 3% 5% 0;
+}
+
+/* jobs */
+#jobs{
+    background-color: #194074;
+    color: #fff;
+}
+
+/* footer */
+
+#footer{
+
+    text-align: center;
+    padding: 2% 10%;
+}
+
